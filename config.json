@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sql-databases",
+      "title": "SQL & Relational Databases",
+      "description": "Learn to design, create, and query relational databases using SQL. Build a school system with multiple related tables and Python database operations.",
+      "path": "assignments/sql-databases",
+      "dueDate": "2026-06-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "SQL Schema Reference",
+          "file": "schema.sql",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
